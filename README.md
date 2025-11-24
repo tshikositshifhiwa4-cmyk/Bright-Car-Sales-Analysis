@@ -62,5 +62,7 @@ Canva / PowerPoint (visual presentation)
 
 # Author
 Tshifhiwa Tshikosi
+
 Data Analyst | BI Analyst
+
 Email: tshikositshifhiwa4@gmail.com
